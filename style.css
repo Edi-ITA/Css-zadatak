@@ -18,15 +18,6 @@ a[href="https://www.link-group.eu/"] {
 #second-div p:nth-child(odd) {
     color: blue;
 }
-
-body>p:nth-last-of-type(2) {
-    color: blue;
-}
-
-body>p:last-of-type {
-    color: red;
-}
-
 body>p:last-child:hover {
     font-style: italic;
 }
